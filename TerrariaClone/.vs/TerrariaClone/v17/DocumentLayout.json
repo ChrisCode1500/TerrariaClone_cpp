@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\AnimateSpriteSheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|solutionrelative:AnimateSpriteSheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|solutionrelative:PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\AnimateSpriteSheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|solutionrelative:AnimateSpriteSheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|solutionrelative:PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\GameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|solutionrelative:GameWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\GameWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|solutionrelative:GameWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\TerrariaClone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D44D743-A7D6-4223-ADCF-7A038783240B}|TerrariaClone.vcxproj|solutionrelative:TerrariaClone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimateSpriteSheet.h",
+              "DocumentMoniker": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\AnimateSpriteSheet.h",
+              "RelativeDocumentMoniker": "AnimateSpriteSheet.h",
+              "ToolTip": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\AnimateSpriteSheet.h",
+              "RelativeToolTip": "AnimateSpriteSheet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-06T14:34:37.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimateSpriteSheet.cpp",
+              "DocumentMoniker": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\AnimateSpriteSheet.cpp",
+              "RelativeDocumentMoniker": "AnimateSpriteSheet.cpp",
+              "ToolTip": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\AnimateSpriteSheet.cpp",
+              "RelativeToolTip": "AnimateSpriteSheet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T14:34:25.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.h",
+              "DocumentMoniker": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\PlayerController.h",
+              "RelativeDocumentMoniker": "PlayerController.h",
+              "ToolTip": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\PlayerController.h",
+              "RelativeToolTip": "PlayerController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T17:19:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cpp",
+              "DocumentMoniker": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\PlayerController.cpp",
+              "RelativeDocumentMoniker": "PlayerController.cpp",
+              "ToolTip": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\PlayerController.cpp",
+              "RelativeToolTip": "PlayerController.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T17:19:28.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameWindow.h",
+              "DocumentMoniker": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\GameWindow.h",
+              "RelativeDocumentMoniker": "GameWindow.h",
+              "ToolTip": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\GameWindow.h",
+              "RelativeToolTip": "GameWindow.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-01T17:20:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TerrariaClone.cpp",
+              "DocumentMoniker": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\TerrariaClone.cpp",
+              "RelativeDocumentMoniker": "TerrariaClone.cpp",
+              "ToolTip": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\TerrariaClone.cpp",
+              "RelativeToolTip": "TerrariaClone.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T15:16:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameWindow.cpp",
+              "DocumentMoniker": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\GameWindow.cpp",
+              "RelativeDocumentMoniker": "GameWindow.cpp",
+              "ToolTip": "C:\\CPP\\RaylibGames\\TerrariaRayLib\\TerrariaClone\\GameWindow.cpp",
+              "RelativeToolTip": "GameWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T15:18:51.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+C:\CPP\RaylibGames\TerrariaRayLib\TerrariaClone\x64\Debug\raylib.dll
+C:\CPP\RaylibGames\TerrariaRayLib\TerrariaClone\x64\Debug\glfw3.dll
+C:\CPP\RaylibGames\TerrariaRayLib\TerrariaClone\TerrariaClone\x64\Debug\Terraria.1FBD7744.Up2Date

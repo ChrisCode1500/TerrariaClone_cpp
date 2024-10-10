@@ -1,0 +1,12 @@
+﻿  AnimateSpriteSheet.cpp
+  Background.cpp
+  CustomCamera.cpp
+  GameWindow.cpp
+  PlayerController.cpp
+C:\CPP\RaylibGames\TerrariaRayLib\TerrariaClone\PlayerController.cpp(40,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\CPP\RaylibGames\TerrariaRayLib\TerrariaClone\PlayerController.cpp(44,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TerrariaClone.cpp
+  Generating Code...
+  TerrariaClone.vcxproj -> C:\CPP\RaylibGames\TerrariaRayLib\TerrariaClone\x64\Debug\TerrariaClone.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
